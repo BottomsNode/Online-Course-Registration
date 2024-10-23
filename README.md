@@ -1,5 +1,11 @@
 <h1 align="center"> Online Course Registration System </h1>
 
+![Build Status](https://github.com/laravel/framework/workflows/tests/badge.svg)
+![Total Downloads](https://img.shields.io/packagist/dt/laravel/framework)
+![Latest Stable Version](https://img.shields.io/packagist/v/laravel/framework)
+![License](https://img.shields.io/packagist/l/laravel/framework)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
